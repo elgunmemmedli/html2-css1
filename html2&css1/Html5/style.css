@@ -1,0 +1,14 @@
+/* h3{
+    color: red;
+    text-align: center;
+} */
+
+
+.box h1{
+    text-align: center;
+    color: red;
+}
+
+.box p span{
+    font-size: 25px;
+}
